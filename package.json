@@ -1,0 +1,24 @@
+{
+  "name": "readmegenerator",
+  "version": "1.0.0",
+  "description": "A Professional README Generator for a project or application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zahid267/READMEGenerator.git"
+  },
+  "author": "Muhammad Zahid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zahid267/READMEGenerator/issues"
+  },
+  "homepage": "https://github.com/zahid267/READMEGenerator#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "inquirer": "^8.0.0",
+    "util": "^0.12.3"
+  }
+}
