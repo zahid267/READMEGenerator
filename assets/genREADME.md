@@ -1,8 +1,8 @@
 # Weather Dashboard
-  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+  ![GPL license](https://img.shields.io/badge/License-GPL-blue.svg)
 
   ## Description
-  Weather info for upto 7 days for a selected city
+  This web application is used to get weather forecast for upto 7 days for a selected city. It also saves the previously searched cities.
   
   ## Table of Contents
   * [Installation](#installation)
@@ -13,19 +13,19 @@
   * [Questions](#questions)
 
   ## Installation
-  node install
+  npm install
 
   ## Usage
   nothing
   
   ## License
-  undefined
+  GPL
   
   ## Contributing
-  call me
+  Call me, then we can discuss the options.
 
   ## Tests
-  node test
+  Use this url : https://zahid267.github.io/WeatherDashboard/
 
   ## Questions
   Github link :[zahid267](https://github.com/zahid267)

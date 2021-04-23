@@ -62,7 +62,7 @@ const promptUser = () => {
 
 const generateREADME = (answers) =>
   `# ${answers.title}
-  ${answers.license}
+  ${answers.badge}
 
   ## Description
   ${answers.description}
@@ -82,7 +82,7 @@ const generateREADME = (answers) =>
   ${answers.usage}
   
   ## License
-  ${answers.licence}
+  ${answers.license}
   
   ## Contributing
   ${answers.contribution}
@@ -100,7 +100,7 @@ const init = () => {
   promptUser()
     .then((answers) =>{
       const license = answers.license;
-      answers.license = generateMarkdown(license);
+      answers.badge = generateMarkdown(license);
       writeFileAsync('genREADME.md', generateREADME(answers))
     })
     .then(() => console.log('Successfully wrote to genREADME.md'))

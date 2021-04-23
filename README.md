@@ -28,35 +28,19 @@ WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 ```
 
+## Mock-Up
 
-### Deliverables:
-
-* A sample README generated using the application must be submitted.
-
-* Your GitHub repository containing your application code.
-
-### Walkthrough Video:
-
-* A walkthrough video that demonstrates the functionality of the README generator must be submitted, and a link to the video should be included in your README file.
-
-* The walkthrough video must demonstrate how a user would invoke the application from the command line.
-
-* The walkthrough video must demonstrate how a user would enter responses to all of the prompts in the application.
-
-* The walkthrough video must demonstrate a generated README that matches the user input and has a functioning table of contents.
-
-
-
+![The following video shows the web application's appearance and functionality:](./assets/READMEGenerator_Demo.mp4)
 
 ## Review
 
 The following have been submitted for review:
 
-* A walkthrough video demonstrating the functionality of the application.
+* A walkthrough video demonstrating the functionality of the application : (./assets/READMEGenerator_Demo.mp4)
 
-* A sample README.md file for a project repository generated using my application
+* A sample README.md file for a project repository generated using my application (./assets/genREADME.md)
 
-* The URL of the GitHub repository, with a unique name and a README describing the project
+* The URL of the GitHub repository, with a unique name and a README describing the project : https://github.com/zahid267/READMEGenerator
 
 ---
 
